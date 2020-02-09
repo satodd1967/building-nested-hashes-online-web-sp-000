@@ -13,4 +13,5 @@ def first_challenge
        :heroine_friends => []
      }
    }
+   }
 end
